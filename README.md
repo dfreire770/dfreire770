@@ -49,5 +49,5 @@ I am a **Senior Software Engineer** with over 9 years of experience architecting
 ### 📫 Connect with Me
 * 📍 **Location:** New York, NY
 * 📧 **Email:** diego.ger12@gmail.com
-* 🔗 **Links:** [LinkedIn](https://linkedin.com/dfreire770) | [Portfolio](https://bioweb.bio)
+* 🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/dfreire770/) 
 * 🎨 **Interests:** Game Development (Unity), Music Production, Cycling
