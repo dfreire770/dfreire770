@@ -42,8 +42,7 @@ I am a **Senior Software Engineer** with over 9 years of experience architecting
 ### 🎓 Education & Certifications
 * **MS in Data Science** | CUNY Graduate Center (May 2024)
 * **BS in Systems Engineering** | Pontificia Universidad Católica del Ecuador (May 2017)
-* **IBM Data Engineer Professional Certificate** (In Progress)
-
+* **IBM Data Engineer Professional Certificate** 
 ---
 
 ### 📫 Connect with Me
